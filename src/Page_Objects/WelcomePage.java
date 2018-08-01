@@ -5,6 +5,8 @@ import org.openqa.selenium.WebDriver;
 
 public class WelcomePage {
 	
+	//POM
+	
 	WebDriver driver;
 	
 	By UserName_msg =By.xpath("//div[@class='ZrQ9j']");
